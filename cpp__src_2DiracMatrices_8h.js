@@ -1,0 +1,16 @@
+var cpp__src_2DiracMatrices_8h =
+[
+    [ "Dirac::Spinor", "structDirac_1_1Spinor.html", "structDirac_1_1Spinor" ],
+    [ "complex", "cpp__src_2DiracMatrices_8h.html#ac1e191b34c94a0639abb633cd60a7a4f", null ],
+    [ "Matrix4x4", "cpp__src_2DiracMatrices_8h.html#a9136f0089d7b57d22369746387c7602b", null ],
+    [ "multiply", "cpp__src_2DiracMatrices_8h.html#a014ad33afd9f382c542eed9f434453ed", null ],
+    [ "operator*", "cpp__src_2DiracMatrices_8h.html#a9f077ea7aa7ba2d423eb8f80ae262d4d", null ],
+    [ "operator+", "cpp__src_2DiracMatrices_8h.html#af9af58cd7de1c86e45ca9dcc62627467", null ],
+    [ "operator-", "cpp__src_2DiracMatrices_8h.html#a95ddd3e3d99a234d5b255806fd5259d7", null ],
+    [ "operator/", "cpp__src_2DiracMatrices_8h.html#a04add302ef0dcecd7b8098e571113247", null ],
+    [ "alpha_x", "cpp__src_2DiracMatrices_8h.html#a220c778fcf6de926d905379ca36d7b81", null ],
+    [ "alpha_y", "cpp__src_2DiracMatrices_8h.html#a1ee219a1bed9ad5012b3ef6ba2f5e381", null ],
+    [ "alpha_z", "cpp__src_2DiracMatrices_8h.html#a21dac9d07b94f2221878134ce3951549", null ],
+    [ "beta", "cpp__src_2DiracMatrices_8h.html#a37ac9610e8318abeed90f787c61954f9", null ],
+    [ "I4", "cpp__src_2DiracMatrices_8h.html#aeedf4a19be20c97daf8724926fe94f58", null ]
+];
